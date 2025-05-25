@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APKEasyTool",
+    "\\APKEasyTool\\Config",
+    "\\APKEasyTool\\Enums",
+    "\\APKEasyTool\\Forms",
+    "\\APKEasyTool\\obj",
+    "\\APKEasyTool\\Tabs",
+    "\\Assets\\cert",
+    "\\Resources",
+    "\\Resources\\Apktool"
+  ],
+  "SelectedNode": "\\APKEasyTool\\Tabs\\TabSmali.cs",
+  "PreviewInSolutionExplorer": false
+}
